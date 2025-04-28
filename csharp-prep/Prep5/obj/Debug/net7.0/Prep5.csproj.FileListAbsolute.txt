@@ -1,0 +1,14 @@
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.exe
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.deps.json
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.runtimeconfig.json
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.dll
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.pdb
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.AssemblyInfoInputs.cache
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.AssemblyInfo.cs
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.csproj.CoreCompileInputs.cache
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.dll
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\refint\Prep5.dll
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.pdb
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.genruntimeconfig.cache
+c:\Users\gclay\OneDrive\CSE210\csharp-prep\Prep5\obj\Debug\net7.0\ref\Prep5.dll
